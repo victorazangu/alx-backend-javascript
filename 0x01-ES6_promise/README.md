@@ -8,3 +8,6 @@
 5. Reject the promises
 6. Handle multiple promises
 7. Load balancer
+8. Throw error / try catch
+9. Throw an error
+10. Await / Async
