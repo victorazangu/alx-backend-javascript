@@ -10,3 +10,4 @@
 7. Load balancer
 8. Throw error / try catch
 9. Throw an error
+10. Await / Async
