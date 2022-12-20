@@ -6,3 +6,4 @@
 3. Handle multiple successful promises
 4. Simple promise
 5. Reject the promises
+6. Handle multiple promises
