@@ -7,3 +7,4 @@
 4. Simple promise
 5. Reject the promises
 6. Handle multiple promises
+7. Load balancer
