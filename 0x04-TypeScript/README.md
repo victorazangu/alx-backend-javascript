@@ -10,3 +10,7 @@ Write an interface named Student that accepts the following elements: firstName(
 Create two students, and create an array named studentsList containing the two variables
 Using Vanilla Javascript, render a table and for each elements in the array, append a new row to the table
 Each row should contain the first name of the student and the location
+
+
+1. Let's build a Teacher interface
+
